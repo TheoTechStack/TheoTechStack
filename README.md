@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @TheoTechStack
+👋 Hi, I’m @Theo — Backend Developer
+🔧 C# | .NET | Azure | Microservices
+⚡ Passionate about clean code & scalable systems 
+💬 Let’s connect and create something awesome!
 
 ### Languages and Tools:
 <p align="left"><a href="https://developer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="javascript" width="40" height="40"/></a>
