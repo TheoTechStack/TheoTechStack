@@ -6,3 +6,5 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET CORE" width="40" height="40"/>
   <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/kYNj1__blazor.svg" alt="Blazor" width="40" height="40"/></a>
+
