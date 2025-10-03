@@ -9,6 +9,6 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="css3" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/d7IP4__redis.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/YI7EW__vueuse.svg" alt="Vue" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/YI7EW__vueuse.svg" alt="Vue" width="30" height="30"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/kYNj1__blazor.svg" alt="Blazor" width="40" height="40"/></a>
 
