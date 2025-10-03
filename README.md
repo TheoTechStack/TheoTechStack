@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Theo — Software engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=40&fontAlignY=35&descAlignY=60&animation=twinkling" />
+</p>
+
+- I’m Theo — Software engineer
 - 🔧 C# | .NET | Azure | Microservices
 - ⚡ Passionate about clean code & scalable systems 
 - 💬 Let’s connect and create something awesome!
